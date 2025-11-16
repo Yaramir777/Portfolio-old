@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
 
+/* *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} */
 
 body {
     background-color: white;
@@ -19,6 +24,7 @@ body {
     font-weight: bold;
     font-optical-sizing: auto;
     font-weight: weight; */
+    padding: 20px 10%;
 }
 
 .header-cards a {

@@ -18,7 +18,7 @@ html {
 a {
 color: #0078ff;
 text-decoration: none;
-transition: color 0.2s e;
+transition: color 0.2s ease;
 }
 
 a:hover {
