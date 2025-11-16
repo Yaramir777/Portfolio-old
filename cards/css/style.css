@@ -120,6 +120,7 @@ body {
     color: #90caf9;
     margin: 0 15px;
     font-weight: 500;
+    text-decoration: none;
 }
 
 .footer-cards a:hover {
